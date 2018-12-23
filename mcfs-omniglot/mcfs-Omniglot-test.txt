@@ -1,0 +1,57 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf100
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Mkhedruli_(Georgian): [character01, character18, character20, character41, character08, character09, character23, character35] \
+Alphabet_of_the_Magi: [character14, character04, character13, character06, character02, character12] \
+Angelic: [character02, character08, character14, character17, character15, character18] \
+Early_Aramaic: [character01, character08, character15, character22, character20] \
+Oriya: [character30, character18, character43, character28, character17, character13, character24, character42, character02, character37, character08, character34] \
+Gujarati: [character17, character39, character19, character11, character01, character16, character41, character27, character48, character42] \
+Japanese_(katakana): [character20, character32, character42, character09, character13, character37, character19, character34, character23, character47] \
+Syriac_(Serto): [character05, character07, character10, character11, character01, character16] \
+Ge_ez: [character10, character16, character17, character14, character03, character24, character26, character02]\
+Korean: [character31, character12, character22, character21, character18, character02, character23, character27, character30, character17, character20, character08, character13]\
+Malayalam: [character07, character22, character15, character05, character25, character16, character02, character45, character41, character29, character26, character27, character20]\
+Atlantean: [character16, character14, character25, character05, character01, character07, character10, character22, character24]\
+Atemayar_Qelisayer: [character19, character21, character12, character04, character07, character17, character15, character23, character03] \
+Arcadian: [character24, character20, character25, character12, character21, character17, character15, character11]\
+Tibetan: [character04, character36, character19, character37, character07, character39, character22, character02, character24, character08, character27, character14] \
+Old_Church_Slavonic_(Cyrillic): [character02, character13, character08, character06, character30, character27, character03, character05, character24, character31, character37, character18, character04] \
+Malay_(Jawi_-_Arabic): [character04, character03, character15, character37, character20, character34, character24, character35, character25, character30, character07, character10, character01, character22] \
+Cyrillic: [character13, character15, character05, character14, character23, character31, character28, character17, character03, character30] \
+Syriac_(Estrangelo): [character23, character18, character13, character02] \
+Tagalog: [character07, character06, character13, character02, character16] \
+Bengali: [character25, character18, character36, character16, character30, character15, character03, character42, character43, character31, character34, character08, character24]\
+ULOG: [character09, character01, character11, character21] \
+Gurmukhi: [character30, character14, character11, character44, character31, character27, character23, character36, character15, character40, character01] \
+Ojibwe_(Canadian_Aboriginal_Syllabics): [character07, character14] \
+Sanskrit: [character34, character06, character30, character41, character12, character04, character05, character32]\
+Armenian: [character24, character34, character41, character07, character31, character12, character28, character29, character20, character38, character23, character02, character03, character10, character06, character04] \
+Kannada: [character06, character22, character03, character31] \
+Manipuri: [character35, character37, character17, character39, character25, character28, character19, character01, character07, character40, character21, character08] \
+Anglo-Saxon_Futhorc: [character22, character19, character28, character03, character23, character07, character15, character26, character12, character04] \
+Asomtavruli_(Georgian): [character36, character27, character37, character31, character01, character40, character19, character38, character13] \
+Keble: [character25, character06, character02] \
+Japanese_(hiragana): [character03, character35, character15, character08, character43, character20, character18, character21, character29, character39, character48] \
+Latin: [character12, character01, character11, character20, character17] \
+Hebrew: [character08, character17, character04] \
+Avesta: [character14, character12, character02, character04] \
+Glagolitic: [character40, character24, character45, character20, character32, character43, character05, character02, character15, character27, character22, character34, character16]\
+Tengwar: [character25, character01, character08, character20, character24, character23, character04, character17, character02, character07, character12] \
+Greek: [character20, character15, character17, character16, character23, character11] \
+Sylheti: [character02, character10, character07, character19, character15, character21, character11, character09]\
+Braille: [character09, character16, character07, character08, character19, character06, character03] \
+Burmese_(Myanmar): [character01, character16, character11, character28, character17, character04, character02]\
+Futurama: [character21, character23, character09, character18, character07] \
+Mongolian: [character02, character09, character06, character05, character21, character04, character10] \
+Inuktitut_(Canadian_Aboriginal_Syllabics): [character01, character03, character04, character07] \
+N_Ko: [character27, character07, character04, character22, character17, character08, character05, character29]\
+Blackfoot_(Canadian_Aboriginal_Syllabics): [character06, character02, character04, character14] \
+Balinese: [character08, character10, character22, character16, character21] \
+Aurek-Besh: [character04, character01] \
+Tifinagh: [character12, character53, character51, character46, character55, character25, character22, character14, character47, character01, character27, character29] \
+Grantha: [character10, character34, character29, character04, character05, character06, character43, character36, character28, character09, character41]}
